@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Video Game Inventory</string>
+
+
+    <!-- Label for overflow menu option that deletes all game data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Game</string>
+
+    <!-- Title text for the empty view, which describes the empty game image [CHAR LIMIT=50] -->
+    <string name="empty_view_title_text">You look a little board...</string>
+
+    <!-- Subtitle text for the empty view that prompts the user to add a game [CHAR LIMIT=50] -->
+    <string name="empty_view_subtitle_text">Let\'s add some fun in your life !!! </string>
+
+    <!-- Title for the activity to add a new game [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_game">Add Game</string>
+
+    <!-- Title for the activity to edit an existing game [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_edit_game">Edit Game</string>
+
+    <!-- Current inventory count for added game -->
+    <string name="editor_activity_added_inventory">New Game Inventory</string>
+
+    <!-- Price label within editor xml -->
+    <string name="editor_price_label">Price</string>
+
+    <!-- Price hint within editor xml -->
+    <string name="editor_hint_price">Enter game price whole number</string>
+
+    <!-- Image labe within editor xml -->
+    <string name="editor_add_image">Add Image</string>
+
+    <!-- Label for editor menu option to save game and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current game [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for details activity -->
+    <string name="label_details">Game Details</string>
+
+    <!-- Label for Sold and Order activity -->
+    <string name="label_sold_order">Games Sold/Order</string>
+
+    <!-- Toast message in editor when new game has been successfully inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_game_successful">Game saved</string>
+
+    <!-- Toast message in editor when new game has failed to be inserted [CHAR LIMIT=NONE] -->
+    <string name="editor_insert_game_failed">Error with saving game</string>
+
+    <!-- Toast message in editor when current game was successfully updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_game_successful">Game updated</string>
+
+    <!-- Toast message in editor when current game has failed to be updated [CHAR LIMIT=NONE] -->
+    <string name="editor_update_game_failed">Error with updating game</string>
+
+    <!-- Dialog message when user is leaving editor but hasn't saved changes [CHAR LIMIT=NONE] -->
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <!-- Dialog button text for the option to discard a user's changes [CHAR LIMIT=20] -->
+    <string name="discard">Discard</string>
+
+    <!-- Dialog button text for the option to keep editing the current game [CHAR LIMIT=20] -->
+    <string name="keep_editing">Keep Editing</string>
+
+    <!-- Toast message in editor when current game was successfully deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_game_successful">Game deleted</string>
+
+    <!-- Toast message in editor when current game has failed to be deleted [CHAR LIMIT=NONE] -->
+    <string name="editor_delete_game_failed">Error with deleting game</string>
+
+    <!-- Dialog message to ask the user to confirm deleting the current game [CHAR LIMIT=NONE] -->
+    <string name="delete_dialog_msg">Delete this game?</string>
+
+    <!-- Dialog button text for the option to confirm deleting the current game [CHAR LIMIT=20] -->
+    <string name="delete">Delete</string>
+
+    <!-- Dialog button text for the option to cancel deletion of the current game [CHAR LIMIT=20] -->
+    <string name="cancel">Cancel</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_price">Price</string>
+
+    <!-- Label for genre information in the editor [CHAR LIMIT=30] -->
+    <string name="category_genre">Genre</string>
+
+    <!-- Text for game title field in the editor [CHAR LIMIT=30] -->
+    <string name="text_game_title">Game Title</string>
+
+    <!-- Text hint for game title field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_title_name">Title Name</string>
+
+    <!-- Text hint for game summary field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_summary">Quick Game Summary</string>
+
+    <!-- Label for dropdown menu option if the genre is PUZZLE [CHAR LIMIT=20] -->
+    <string name="genre_puzzle">Puzzle</string>
+
+    <!-- Label for dropdown menu option if the genre is RPG [CHAR LIMIT=20] -->
+    <string name="genre_RPG">RPG</string>
+
+    <!-- Label for dropdown menu option if the genre is ACTION [CHAR LIMIT=20] -->
+    <string name="genre_action">Action</string>
+
+    <!-- Label for dropdown menu option if the genre is SPORTS [CHAR LIMIT=20] -->
+    <string name="genre_sports">Sports</string>
+
+    <!-- Label for dropdown menu option if the genre is SHOOTER [CHAR LIMIT=20] -->
+    <string name="genre_shooter">Shooter</string>
+
+    <!-- Label for dropdown menu option if the genre is VR [CHAR LIMIT=20] -->
+    <string name="genre_VR">VR</string>
+
+    <!-- Label for dropdown menu option if the genre is Unknown [CHAR LIMIT=20] -->
+    <string name="genre_unknown">Unknown</string>
+
+    <!-- Label Dummy Data on menu -->
+    <string name="action_insert_dummy_data"> Dummy Data</string>
+
+    <!-- Summary for Destiny 2 -->
+    <string name="destiny_2"> Gameplay will be similar to that of the original Destiny, which was
+        described as a first-person shooter that incorporates role-playing and massively multiplayer
+        online game (MMO) elements. The original Destiny included on-the-fly matchmaking that allowed
+        players to communicate only with other players with whom they were "matched" by the game. 
+        Destiny 2 will feature a more optimal way of matchmaking called "Guided Games", which will
+        allow players to search for clans who may need additional players for activities, such as 
+        strikes or raids. Like the original, activities in Destiny 2 will be divided among player
+        versus environment (PvE) and player versus player (PvP) game types.
+</string>
+
+
+    <!-- Label for the pet's breed if the breed is unknown [CHAR LIMIT=20] -->
+    <string name="unknown_breed">Unknown breed</string>
+    <string name="video_game_delete_successful">Successfully Deleted Video Game</string>
+    <string name="video_game_delete_failed">Deleting Video Game Failed</string>
+    <string name="error_deleting">Error Deleting</string>
+    <string name="delete_all">Delete All</string>
+    <string name="delete_all_builder">Delete All</string>
+    <string name="missing_email_app">Missing email app</string>
+    <string name="genre">Genre: </string>
+    <string name="stock">Stock: </string>
+    <string name="game_sold">Game Sold</string>
+    <string name="sold_out">Sold Out.  Order More.</string>
+    <string name="above">You cannot go above</string>
+    <string name="per_order">units per order form.</string>
+</resources>

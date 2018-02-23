@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- These are the options displayed in the gender drop-down Spinner -->
+    <string-array name="array_genre_options">
+        <item>@string/genre_action</item>
+        <item>@string/genre_puzzle</item>
+        <item>@string/genre_RPG</item>
+        <item>@string/genre_shooter</item>
+        <item>@string/genre_sports</item>
+        <item>@string/genre_VR</item>
+        <item>@string/genre_unknown</item>
+    </string-array>
+</resources>
